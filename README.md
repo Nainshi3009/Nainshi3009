@@ -159,15 +159,7 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 ---
 
-# 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nainshi3009&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🌱 Currently Exploring
 
