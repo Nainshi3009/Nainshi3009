@@ -149,7 +149,6 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 
 
-# 🏆 GitHub Trophies
 
 # 🏆 GitHub Trophies
 
