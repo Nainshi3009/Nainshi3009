@@ -130,9 +130,8 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nainshi3009&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainshi3009&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="./profile/stats.svg" width="48%" />
+<img src="./profile/top-langs.svg" width="48%" />
 
 </div>
 
@@ -147,6 +146,8 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 </div>
 
 ---
+
+
 
 # 🏆 GitHub Trophies
 
