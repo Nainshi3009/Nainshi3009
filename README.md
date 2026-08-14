@@ -136,6 +136,11 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 </div>
 
 ---
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nainshi3009&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
