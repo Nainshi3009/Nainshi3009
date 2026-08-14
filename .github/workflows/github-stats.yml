@@ -30,16 +30,22 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
 
+      - name: Generate GitHub Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move Trophy to profile
+        run: |
+          mkdir -p profile
+          mv trophy.svg profile/trophy.svg
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
+          git diff --staged --quiet || git commit -m "Update GitHub stats"
           git push
-      - name: Generate GitHub Trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Nainshi3009
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
