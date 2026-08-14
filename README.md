@@ -130,9 +130,9 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nainshi3009&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nainshi3009&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainshi3009&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainshi3009&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -142,7 +142,7 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nainshi3009&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nainshi3009&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -152,8 +152,7 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nainshi3009&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nainshi3009&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nainshi3009&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
