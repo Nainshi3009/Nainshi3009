@@ -151,9 +151,11 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 # 🏆 GitHub Trophies
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nainshi3009&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+<img src="./profile/trophy.svg" width="90%" />
 
 </div>
 
