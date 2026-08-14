@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,18 +29,6 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-
-      - name: Generate GitHub Trophies
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Nainshi3009
-          file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move Trophy to profile
-        run: |
-          mkdir -p profile
-          mv trophy.svg profile/trophy.svg
 
       - name: Commit generated cards
         run: |
