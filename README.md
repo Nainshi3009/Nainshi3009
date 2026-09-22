@@ -172,8 +172,8 @@ Responsive educational website built using HTML, CSS, and JavaScript.
 
 &nbsp;&nbsp;
 
-<a href="mailto:nainshi775@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nainshi775@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
